@@ -1,0 +1,7 @@
+temp.py
+
+*.json
+*.txt
+
+jsons/*
+logs/*
